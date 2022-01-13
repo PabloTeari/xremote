@@ -1,0 +1,48 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{5396B1CA-3212-412A-B11E-DC83E84D6569}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="xRemoteApp/ViewController.cs">
+    <Files>
+      <File FileName="xRemoteApp/Main.cs" Line="11" Column="10" />
+      <File FileName="xRemoteApp/ViewController.cs" Line="20" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="xRemote" expanded="True" selected="True">
+            <Node name="Includes" expanded="True">
+              <Node name="SmartGlass" expanded="True">
+                <Node name="SmartGlass" expanded="True">
+                  <Node name="Dependencies" expanded="True">
+                    <Node name="PackageDependencies" expanded="True">
+                      <Node name="Microsoft.Extensions.Logging" expanded="True" />
+                    </Node>
+                    <Node name="SdkDependencies" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="xRemoteApp" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.xRemoteApp PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>xRemote/xbox-client-xamarin-master/xRemove/xRemoteApp.csproj</String>
+    <String>xRemote/xRemove/xRemoteApp.csproj</String>
+    <String>SmartGlass.Nano.FFmpeg/SmartGlass.Nano.FFmpeg.csproj</String>
+    <String>Includes/SmartGlass/SmartGlass/SmartGlass.csproj</String>
+    <String>../xbox-smartglass-csharp/SmartGlass/SmartGlass.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin/Microsoft.Common.CurrentVersion.targets" line="2143" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
